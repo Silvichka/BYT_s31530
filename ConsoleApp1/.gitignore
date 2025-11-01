@@ -5,11 +5,19 @@
 *.suo
 *.user
 *.sln.docstates
+*.userprefs
 
 # Build results
 
 .idea
 idea/
+
+# Rider / IntelliJ project files
+*.DotSettings.user
+
+# Build outputs
+bin/
+obj/
 
 [Dd]ebug/
 [Rr]elease/
